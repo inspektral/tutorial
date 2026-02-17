@@ -1,3 +1,3 @@
 import utils
 
-print(utils.sum(3,2))
+print(utils.sum([3,4,5]))
